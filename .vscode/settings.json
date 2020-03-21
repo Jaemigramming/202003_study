@@ -1,0 +1,5 @@
+{
+  "eslint.workingDirectories": [
+    "./baba/jest_setting_starter"
+  ]
+}
